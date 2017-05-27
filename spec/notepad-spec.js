@@ -29,7 +29,7 @@
     var notepad, test_text_1, test_text_2;
 
     test_text_1 = "Doctor's apt";
-    test_text_2 = "Surgeon's apt";
+    test_text_2 = "Dentist's apt";
     notepad = new Notepad();
 
     notepad.createNote(test_text_1);
